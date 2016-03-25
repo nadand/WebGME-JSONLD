@@ -1,4 +1,5 @@
-# Formula integration framework for WebGME
+# JSON-LD export for WebGME
 
-## Requirements:
-[Formula](http://formula.codeplex.com/)
+## Related:
+[JSON-LD](http://json-ld.org/)
+[Playground](http://json-ld.org/playground/)
